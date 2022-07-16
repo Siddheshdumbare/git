@@ -1,9 +1,11 @@
-first change.
+Change:- To check the diff.
 
-change:- to fix bug1.
+Change:- To fix bug1.
 
-Change:- by teammate, 3 way merging.
+Change:- By teammate for CR1 3 way merging with conflict.
 
-change:- for bug2 to check 3 way merging with conflict.
+Change:- For bug2 to check 3 way merging with conflict.
 
 Change:- By teammate for W14 to check rebase with conflict. 
+
+Change:- For CR2 to check rebase with conflict.
