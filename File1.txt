@@ -1,5 +1,7 @@
-first change
+first change.
 
-change: to fix bug1
+change: to fix bug1.
 
-Change: by teammate, 3 way merging
+Change: by teammate, 3 way merging.
+
+change: for bug2 to check 3 way merging with conflict.
