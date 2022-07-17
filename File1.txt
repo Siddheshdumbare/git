@@ -10,6 +10,8 @@ Change:- By teammate for W14 to check rebase with conflict.
 
 Change:- For CR2 to check rebase with conflict.
 
-Change:- for WI5 to check stash - half work done. Updated on remote master
-
 Change:- By teammated CR5 on remote master for rebase with conflict.
+
+Change:- For WI5 to check stash - half work done. Updated on local master for bug4.
+
+Change:- Updated on local master to check rebase with conflict.
