@@ -9,3 +9,5 @@ Change:- For bug2 to check 3 way merging with conflict.
 Change:- By teammate for W14 to check rebase with conflict. 
 
 Change:- For CR2 to check rebase with conflict.
+
+Change:- For WI5 to check stash - half work done.
